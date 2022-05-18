@@ -1,0 +1,27 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652324035884,
+      "duration": 156,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

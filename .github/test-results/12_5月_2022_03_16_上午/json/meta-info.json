@@ -1,0 +1,13 @@
+{
+  "name": "Sample Demo",
+  "status": "fail",
+  "tests": [
+    "SampleDemo/WebScenariosOpenSeaTest"
+  ],
+  "total": 2,
+  "pass": 1,
+  "fail": 1,
+  "skip": 0,
+  "startTime": 1652325773628,
+  "endTime": 1652367899519
+}

@@ -1,0 +1,24 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "iCloseBrowser",
+      "args": [
+        "[]"
+      ],
+      "result": "success",
+      "subLogs": [],
+      "duration": -1
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "And I close browser",
+      "type": "TestStepPass",
+      "screenshot": null,
+      "duration": 707,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": null
+}

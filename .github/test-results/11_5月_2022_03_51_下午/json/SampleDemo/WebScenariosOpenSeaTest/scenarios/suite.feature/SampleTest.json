@@ -1,0 +1,24 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "Given I am go to the home of catalog.lu store on OpenSea Page",
+      "args": [
+        "[]"
+      ],
+      "result": "Error: Step Not Found",
+      "subLogs": [],
+      "duration": -1
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Given I am go to the home of catalog.lu store on OpenSea Page :: Not Found.",
+      "type": "Warn",
+      "screenshot": null,
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "com.qmetry.qaf.automation.step.StepNotFoundException: Given I am go to the home of catalog.lu store on OpenSea Page@scenarios/suite.feature#5 TestStep implementation not found. \n Please provide implementation or ensure 'step.provider.pkg' property value includes appropriate package.\r\n\tat .Given I am go to the home of catalog.lu store on OpenSea Page(scenarios/suite.feature:5)\r\n"
+}

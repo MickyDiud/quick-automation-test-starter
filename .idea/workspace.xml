@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af0ff807-ecc3-4d4c-885f-a0b7fead334d" name="Default Changelist" comment="Initialize resources." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="qaf-blank-project-maven/invalid/AspectJ" />
+    </ignored-facets>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="291cwIRsWh3zliS4j7lal5X5qp3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\catalogluautotest\data" />
+      <recent name="D:\IdeaProjects\catalogluautotest" />
+      <recent name="D:\IdeaProjects\qaf-blank-project-maven" />
+      <recent name="D:\IdeaProjects\qaf-blank-project-maven\driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\qaf-blank-project-maven\driver" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.qmetry.qaf.example.test" />
+      <recent name="com.qmetry.qaf.example" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0ff807-ecc3-4d4c-885f-a0b7fead334d" name="Default Changelist" comment="" />
+      <created>1652284268698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652284268698</updated>
+      <workItem from="1652284272940" duration="1800000" />
+      <workItem from="1652322622190" duration="33378000" />
+      <workItem from="1652409157498" duration="363000" />
+      <workItem from="1652409575740" duration="804000" />
+      <workItem from="1652410448693" duration="198000" />
+      <workItem from="1652410764826" duration="418000" />
+      <workItem from="1652412129855" duration="277000" />
+      <workItem from="1652412472649" duration="83000" />
+      <workItem from="1652412592100" duration="697000" />
+      <workItem from="1652419129740" duration="79000" />
+      <workItem from="1652419237123" duration="226000" />
+      <workItem from="1652419489655" duration="31000" />
+      <workItem from="1652419601935" duration="163000" />
+      <workItem from="1652419894584" duration="67000" />
+      <workItem from="1652419980359" duration="197000" />
+      <workItem from="1652420198733" duration="45000" />
+      <workItem from="1652420263623" duration="13595000" />
+      <workItem from="1652489922313" duration="41000" />
+      <workItem from="1652497895096" duration="18836000" />
+      <workItem from="1652530001409" duration="16275000" />
+      <workItem from="1652571570107" duration="12187000" />
+      <workItem from="1652705174292" duration="4445000" />
+      <workItem from="1652761711119" duration="8457000" />
+      <workItem from="1652779888683" duration="675000" />
+      <workItem from="1652780608371" duration="275000" />
+      <workItem from="1652843656956" duration="14799000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initialize resources.">
+      <created>1652855671266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652855671266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-jexl3" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:io.github.bonigarcia:webdrivermanager" />
+    <option featureType="dependencySupport" implementationName="java:com.perfectomobile:intellij-connector" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.xmlbeans:xmlbeans" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-exec" />
+    <option featureType="dependencySupport" implementationName="java:com.squareup.okhttp3:okhttp" />
+    <option featureType="dependencySupport" implementationName="java:com.google.j2objc:j2objc-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-edge-driver" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.gson:gson" />
+    <option featureType="dependencySupport" implementationName="java:org.aspectj:aspectjweaver" />
+    <option featureType="dependencySupport" implementationName="java:commons-io:commons-io" />
+    <option featureType="dependencySupport" implementationName="java:javax.ws.rs:jsr311-api" />
+    <option featureType="dependencySupport" implementationName="java:org.jvnet.mimepull:mimepull" />
+    <option featureType="dependencySupport" implementationName="java:com.zaxxer:SparseBitSet" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest-library" />
+    <option featureType="dependencySupport" implementationName="java:com.perfecto.reporting-sdk:reportium-testng" />
+    <option featureType="dependencySupport" implementationName="java:com.google.errorprone:error_prone_annotations" />
+    <option featureType="com.intellij.facetType" implementationName="AspectJ" />
+    <option featureType="dependencySupport" implementationName="java:commons-lang:commons-lang" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:jetty-repacked" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jcl" />
+    <option featureType="dependencySupport" implementationName="java:io.appium:java-client" />
+    <option featureType="dependencySupport" implementationName="java:com.perfectomobile:http-client" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:info.cukes:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpcore" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-lang3" />
+    <option featureType="dependencySupport" implementationName="java:com.perfectomobile:pm-webdriver" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents.core5:httpcore5" />
+    <option featureType="dependencySupport" implementationName="java:org.json:json" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-databind" />
+    <option featureType="dependencySupport" implementationName="java:org.jsoup:jsoup" />
+    <option featureType="dependencySupport" implementationName="java:commons-collections:commons-collections" />
+    <option featureType="dependencySupport" implementationName="java:org.ow2.asm:asm" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:slf4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.rauschig:jarchivelib" />
+    <option featureType="dependencySupport" implementationName="java:com.google.guava:guava" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.poi:poi" />
+    <option featureType="dependencySupport" implementationName="java:org.yaml:snakeyaml" />
+    <option featureType="dependencySupport" implementationName="java:commons-configuration:commons-configuration" />
+    <option featureType="dependencySupport" implementationName="java:com.qmetry:qaf-support" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-math3" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-collections4" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-expression" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents.core5:httpcore5-h2" />
+    <option featureType="dependencySupport" implementationName="java:dom4j:dom4j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpclient" />
+    <option featureType="dependencySupport" implementationName="java:velocity:velocity-dep" />
+    <option featureType="dependencySupport" implementationName="java:info.cukes:cucumber-jvm-deps" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey.contribs:jersey-apache-client" />
+    <option featureType="dependencySupport" implementationName="java:javax.inject:javax.inject" />
+    <option featureType="dependencySupport" implementationName="java:commons-codec:commons-codec" />
+    <option featureType="dependencySupport" implementationName="java:com.beust:jcommander" />
+    <option featureType="dependencySupport" implementationName="java:xml-apis:xml-apis" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.mojo:animal-sniffer-annotations" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-client" />
+    <option featureType="dependencySupport" implementationName="java:commons-validator:commons-validator" />
+    <option featureType="dependencySupport" implementationName="java:commons-httpclient:commons-httpclient" />
+    <option featureType="dependencySupport" implementationName="java:net.jcip:jcip-annotations" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey.contribs:jersey-multipart" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-beans" />
+    <option featureType="dependencySupport" implementationName="java:com.squareup.okio:okio" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-compress" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents.client5:httpclient5" />
+    <option featureType="dependencySupport" implementationName="java:com.quantum:quantum-support" />
+    <option featureType="dependencySupport" implementationName="java:org.aspectj:aspectjrt" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-chrome-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.testng:testng" />
+    <option featureType="dependencySupport" implementationName="java:com.qmetry:qaf" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-firefox-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-api" />
+    <option featureType="dependencySupport" implementationName="java:commons-logging:commons-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.checkerframework:checker-compat-qual" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-opera-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.aspectj:aspectjtools" />
+    <option featureType="dependencySupport" implementationName="java:com.perfecto.reporting-sdk:reportium-java" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-annotations" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-core" />
+    <option featureType="dependencySupport" implementationName="java:info.cukes:cucumber-core" />
+    <option featureType="dependencySupport" implementationName="java:info.cukes:gherkin" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:jcl-over-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.poi:poi-ooxml-lite" />
+    <option featureType="dependencySupport" implementationName="java:aopalliance:aopalliance" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-ie-driver" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-server" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.poi:poi-ooxml" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-support" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.findbugs:jsr305" />
+    <option featureType="dependencySupport" implementationName="java:info.cukes:cucumber-html" />
+    <option featureType="dependencySupport" implementationName="java:commons-beanutils:commons-beanutils" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-context" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-remote-driver" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aop" />
+    <option featureType="dependencySupport" implementationName="java:commons-digester:commons-digester" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-safari-driver" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet:javax.servlet-api" />
+    <option featureType="dependencySupport" implementationName="java:log4j:log4j" />
+    <option featureType="dependencySupport" implementationName="java:cglib:cglib" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize resources." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize resources." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="StringUtils.equals(beforeItem, afterItem)" />
+      </configuration>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="recordSet.contains(clkItem)" />
+        <watch expression="webdriver.findElements(By.xpath(&quot;//div[@role=\&quot;grid\&quot;]/div&quot;)).size()" />
+        <watch expression="webdriver.findElements(By.xpath(&quot;//div[@role=\&quot;grid\&quot;]/div&quot;))" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

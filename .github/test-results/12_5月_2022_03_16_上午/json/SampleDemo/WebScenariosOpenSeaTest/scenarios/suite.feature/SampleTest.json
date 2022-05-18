@@ -1,0 +1,33 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "iAmGoToTheHomeOfCatalogLuStoreOnOpenSeaPage",
+      "args": [
+        "[]"
+      ],
+      "result": "fail",
+      "subLogs": [],
+      "duration": -1
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Given I am go to the home of catalog.lu store on OpenSea Page",
+      "type": "TestStepFail",
+      "screenshot": "",
+      "duration": 12082,
+      "threshold": 0,
+      "subCheckPoints": [
+        {
+          "message": null,
+          "type": "Fail",
+          "screenshot": null,
+          "duration": 0,
+          "threshold": 0,
+          "subCheckPoints": []
+        }
+      ]
+    }
+  ],
+  "errorTrace": "java.lang.NullPointerException\r\n\tat .Given I am go to the home of catalog.lu store on OpenSea Page(scenarios/suite.feature:5)\r\n\tat com.qmetry.qaf.example.steps.StepsLibrary.getDriverPath(StepsLibrary.java:30)\r\n\tat com.qmetry.qaf.example.steps.StepsLibrary.initDriver(StepsLibrary.java:20)\r\n\tat com.qmetry.qaf.example.steps.GlobalStepDefs.iAmGoToTheHomeOfCatalogLuStoreOnOpenSeaPage(GlobalStepDefs.java:14)\r\n\tat com.qmetry.qaf.automation.step.JavaStep.doExecute(JavaStep.java:150)\r\n\tat com.qmetry.qaf.automation.step.BaseTestStep.execute(BaseTestStep.java:149)\r\n\tat com.qmetry.qaf.automation.step.StringTestStep.execute(StringTestStep.java:128)\r\n\tat com.qmetry.qaf.automation.step.client.Scenario.execute(Scenario.java:174)\r\n\tat com.qmetry.qaf.automation.step.client.Scenario.scenario(Scenario.java:237)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)\r\n"
+}

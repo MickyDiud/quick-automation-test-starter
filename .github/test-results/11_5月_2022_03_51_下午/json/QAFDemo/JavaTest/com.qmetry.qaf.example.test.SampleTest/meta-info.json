@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": null,
+        "name": "testGoogleSearch",
+        "resultFileName": "TestGoogleSearch",
+        "sign": "SampleTest.testGoogleSearch()[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@48e4374]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652285245597,
+      "duration": 23,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

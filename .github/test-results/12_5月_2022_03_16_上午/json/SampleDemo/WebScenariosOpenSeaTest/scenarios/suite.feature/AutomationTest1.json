@@ -1,0 +1,3616 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "iAmGoToTheHomeOfCatalogLuStoreOnOpenSeaPage",
+      "args": [
+        "[]"
+      ],
+      "result": "success",
+      "subLogs": [
+        {
+          "commandName": "get",
+          "args": [
+            "{url=https://opensea.io/collection/catalog-lu-store}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 241286
+        },
+        {
+          "commandName": "maximizeCurrentWindow",
+          "args": [
+            "{}"
+          ],
+          "result": "{height=880, width=1473, x=71, y=-8}",
+          "subLogs": [],
+          "duration": 280
+        }
+      ],
+      "duration": -1
+    },
+    {
+      "commandName": "iVerifyTheStatusOfEachValueInTheCollectionAndPopulateThem",
+      "args": [
+        "[]"
+      ],
+      "result": "fail",
+      "subLogs": [
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@value=\"grid_view\"], using=xpath}"
+          ],
+          "result": "id: fe6a4e7e-29f9-4612-9d70-0ffa1594decd",
+          "subLogs": [],
+          "duration": 21
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //*[@value=\"grid_view\"]",
+            "{\"id\":\"fe6a4e7e-29f9-4612-9d70-0ffa1594decd\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 108
+        },
+        {
+          "commandName": "findElements",
+          "args": [
+            "{value=//div[@role=\"grid\"]/*, using=xpath}"
+          ],
+          "result": "[id: 0a2b44ab-c255-4e74-831b-0a741ad9d60b, id: 53a0a2dc-71ee-446d-b6e8-5236d0b98ef9, id: 9e5f4af9-9f72-44eb-9a0f-9277708d2977, id: 58ff2a9e-cbaa-426d-a82e-5a14d6eab339, id: 9f6f7652-46e6-41bb-838b-e7719fc2bdac, id: e02e77c2-4d5e-4498-b96a-0bd56abc6416]",
+          "subLogs": [],
+          "duration": 39
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[1], using=xpath}"
+          ],
+          "result": "id: 0a2b44ab-c255-4e74-831b-0a741ad9d60b",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@75961f16, org.openqa.selenium.interactions.Sequence@c6c82aa]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 286
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-EDE3A04285F3C464B72EFCFD8F6E4E62]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-EDE3A04285F3C464B72EFCFD8F6E4E62}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 18
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 6883
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 6
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: ad7ce157-7630-4c16-afb5-c4ad1a486fff",
+          "subLogs": [],
+          "duration": 18
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"ad7ce157-7630-4c16-afb5-c4ad1a486fff\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 80
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: a4dd4773-839f-4e1f-b8cd-6e8bd193a5cf",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[2], using=xpath}"
+          ],
+          "result": "id: 53a0a2dc-71ee-446d-b6e8-5236d0b98ef9",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@5292ceca, org.openqa.selenium.interactions.Sequence@13d9261f]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 283
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-56E62141686B8F92B9F1512AE058D48E]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-56E62141686B8F92B9F1512AE058D48E}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860",
+          "subLogs": [],
+          "duration": 4027
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860",
+          "subLogs": [],
+          "duration": 46
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: f86ba4cf-8205-4e9a-a60f-415f4b3913d7",
+          "subLogs": [],
+          "duration": 35
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"f86ba4cf-8205-4e9a-a60f-415f4b3913d7\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 106
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 02c709c1-abac-449e-9bb9-140cdd607d5a",
+          "subLogs": [],
+          "duration": 17
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 83
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[3], using=xpath}"
+          ],
+          "result": "id: 9e5f4af9-9f72-44eb-9a0f-9277708d2977",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@75ae4a1f, org.openqa.selenium.interactions.Sequence@70228253]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 235
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-5A19ECB1EEF317EB54C7F3AC33CEE88F]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-5A19ECB1EEF317EB54C7F3AC33CEE88F}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 25
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708",
+          "subLogs": [],
+          "duration": 3729
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708",
+          "subLogs": [],
+          "duration": 42
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 363c9d38-6dbf-4c4e-8ef4-3fd8747a16ef",
+          "subLogs": [],
+          "duration": 33
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"363c9d38-6dbf-4c4e-8ef4-3fd8747a16ef\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 101
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 3be0fa43-293f-40a8-ad19-bcbb3289ac25",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 83
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 12
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[4], using=xpath}"
+          ],
+          "result": "id: 58ff2a9e-cbaa-426d-a82e-5a14d6eab339",
+          "subLogs": [],
+          "duration": 23
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@70887727, org.openqa.selenium.interactions.Sequence@56da7487]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 176
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-3834DAA5323B14A750C2CA612AD4F1F4]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-3834DAA5323B14A750C2CA612AD4F1F4}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550",
+          "subLogs": [],
+          "duration": 4490
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550",
+          "subLogs": [],
+          "duration": 45
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: a870c8ed-47ea-45dd-8d1f-04dd311879e8",
+          "subLogs": [],
+          "duration": 66
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"a870c8ed-47ea-45dd-8d1f-04dd311879e8\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 132
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: b054d65b-8fc0-4458-8c22-f8c1719e08dd",
+          "subLogs": [],
+          "duration": 34
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 80
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 10
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[5], using=xpath}"
+          ],
+          "result": "id: 9f6f7652-46e6-41bb-838b-e7719fc2bdac",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@1d9bd4da, org.openqa.selenium.interactions.Sequence@4c58255]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 207
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-F7F78BF9AB16F131E5446183484C3281]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-F7F78BF9AB16F131E5446183484C3281}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 29
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3984",
+          "subLogs": [],
+          "duration": 4691
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3984",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 56f5a80b-ff29-4669-bf0c-804aec369f9f",
+          "subLogs": [],
+          "duration": 39
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"56f5a80b-ff29-4669-bf0c-804aec369f9f\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 129
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 1a9c888f-1b34-4d1c-b26b-5e103dcca7ff",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[6], using=xpath}"
+          ],
+          "result": "id: e02e77c2-4d5e-4498-b96a-0bd56abc6416",
+          "subLogs": [],
+          "duration": 21
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@17273273, org.openqa.selenium.interactions.Sequence@5f69e2b]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 172
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-FD4EA232E0C0DBF1CC70F59C1E8E770C]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-FD4EA232E0C0DBF1CC70F59C1E8E770C}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/897",
+          "subLogs": [],
+          "duration": 4360
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/897",
+          "subLogs": [],
+          "duration": 48
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: a7d6c259-8924-44ec-9db0-887f2f41782f",
+          "subLogs": [],
+          "duration": 58
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"a7d6c259-8924-44ec-9db0-887f2f41782f\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 107
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: b7dcb22d-1f57-47e8-b3c8-17f36230c812",
+          "subLogs": [],
+          "duration": 29
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 12
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@46383a78]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//div[@class=\"AssetCardFooter--name\"], using=xpath}"
+          ],
+          "result": "id: 8c3e23df-7809-402d-8079-2ca4ae09ed1b",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "getElementText",
+          "args": [
+            "By.xpath: //div[@class=\"AssetCardFooter--name\"]",
+            "{\"id\":\"8c3e23df-7809-402d-8079-2ca4ae09ed1b\"}"
+          ],
+          "result": "getElementText:91",
+          "subLogs": [],
+          "duration": 17
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//div[@class=\"AssetCardFooter--name\"], using=xpath}"
+          ],
+          "result": "id: 8c3e23df-7809-402d-8079-2ca4ae09ed1b",
+          "subLogs": [],
+          "duration": 17
+        },
+        {
+          "commandName": "getElementText",
+          "args": [
+            "By.xpath: //div[@class=\"AssetCardFooter--name\"]",
+            "{\"id\":\"8c3e23df-7809-402d-8079-2ca4ae09ed1b\"}"
+          ],
+          "result": "getElementText:91",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "findElements",
+          "args": [
+            "{value=//div[@role=\"grid\"]/*, using=xpath}"
+          ],
+          "result": "[id: 0a2b44ab-c255-4e74-831b-0a741ad9d60b, id: 53a0a2dc-71ee-446d-b6e8-5236d0b98ef9, id: 9e5f4af9-9f72-44eb-9a0f-9277708d2977, id: 513c862b-6edb-4e12-a1e7-e5e03cf32571, id: 390d4ca4-549e-42c6-b255-1aafc2bdd282, id: 4753bfbb-05a3-40ce-99e4-9cd140ad220d, id: 58ff2a9e-cbaa-426d-a82e-5a14d6eab339, id: 9f6f7652-46e6-41bb-838b-e7719fc2bdac, id: e02e77c2-4d5e-4498-b96a-0bd56abc6416]",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[1], using=xpath}"
+          ],
+          "result": "id: 0a2b44ab-c255-4e74-831b-0a741ad9d60b",
+          "subLogs": [],
+          "duration": 17
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@5a034157, org.openqa.selenium.interactions.Sequence@2f4ba1ae]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 220
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-432B9479E55FFDC66892D9BF24C2DBB9]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-432B9479E55FFDC66892D9BF24C2DBB9}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 5431
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 55
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: d336b43c-4be0-41b2-82ed-8c1385d37cda",
+          "subLogs": [],
+          "duration": 40
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"d336b43c-4be0-41b2-82ed-8c1385d37cda\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 115
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 53746e33-e2ec-4b4a-9d2d-9a8801f18d2b",
+          "subLogs": [],
+          "duration": 56
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 79
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[2], using=xpath}"
+          ],
+          "result": "id: 53a0a2dc-71ee-446d-b6e8-5236d0b98ef9",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@1115433e, org.openqa.selenium.interactions.Sequence@4fdca00a]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 252
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-BBD8AE6EB9BE4E9557FDA7BFA2286DC9]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-BBD8AE6EB9BE4E9557FDA7BFA2286DC9}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860",
+          "subLogs": [],
+          "duration": 5519
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860",
+          "subLogs": [],
+          "duration": 50
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: e57ad1d6-69d3-4460-9cd3-9fc56808031b",
+          "subLogs": [],
+          "duration": 58
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"e57ad1d6-69d3-4460-9cd3-9fc56808031b\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 112
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: de682e1b-7d3c-43a4-923c-daf7f5bc64b3",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[3], using=xpath}"
+          ],
+          "result": "id: 9e5f4af9-9f72-44eb-9a0f-9277708d2977",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@3d90eeb3, org.openqa.selenium.interactions.Sequence@1db87583]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 187
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-F4F5157EE692C7E7FEE6519306CEB6A1]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-F4F5157EE692C7E7FEE6519306CEB6A1}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 30
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708",
+          "subLogs": [],
+          "duration": 5277
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 5a7dd5d8-74ae-41fd-843c-c15b8e212b80",
+          "subLogs": [],
+          "duration": 23
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"5a7dd5d8-74ae-41fd-843c-c15b8e212b80\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 74
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 43d61c1c-1620-4963-8643-4c5025ec3747",
+          "subLogs": [],
+          "duration": 32
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[4], using=xpath}"
+          ],
+          "result": "id: 872a179a-aae7-4886-985b-56ce7b217b5f",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@7f2d31af, org.openqa.selenium.interactions.Sequence@2e7157c7]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 183
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-8908847699B76812A791ED99F05088A9]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-8908847699B76812A791ED99F05088A9}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550",
+          "subLogs": [],
+          "duration": 5564
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: a88da8cb-bd2f-4402-946c-62da9122f65d",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"a88da8cb-bd2f-4402-946c-62da9122f65d\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 65
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: da21fbc5-e7bf-408c-9580-d4ff7a339df5",
+          "subLogs": [],
+          "duration": 32
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[5], using=xpath}"
+          ],
+          "result": "id: dfa38262-c087-4f22-86e2-247fdb78b831",
+          "subLogs": [],
+          "duration": 23
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@756aadfc, org.openqa.selenium.interactions.Sequence@705a8dbc]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 174
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-DEDC3414CED2B1D45B4D6D9000812B0C]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-DEDC3414CED2B1D45B4D6D9000812B0C}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3984",
+          "subLogs": [],
+          "duration": 6702
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3984",
+          "subLogs": [],
+          "duration": 9
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 343ded7f-bdfa-4790-ba74-d44da8b19bbe",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"343ded7f-bdfa-4790-ba74-d44da8b19bbe\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 56
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 28391d63-4ee3-45cf-a363-2498c354a34c",
+          "subLogs": [],
+          "duration": 18
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[6], using=xpath}"
+          ],
+          "result": "id: 7c42cac4-a603-4673-9434-af0c0ec70e9e",
+          "subLogs": [],
+          "duration": 25
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@5b5dce5c, org.openqa.selenium.interactions.Sequence@7f4701b1]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 160
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-717B29F763B79A6695CB4F0886FEE6FB]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-717B29F763B79A6695CB4F0886FEE6FB}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 29
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/897",
+          "subLogs": [],
+          "duration": 6398
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/897",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 63f485db-0869-47ff-9d14-9a91c099ebd8",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"63f485db-0869-47ff-9d14-9a91c099ebd8\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 62
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 32a0275a-d688-4b1e-88c4-b4df29be2040",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 79
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[7], using=xpath}"
+          ],
+          "result": "id: 768afc08-7e64-4e99-9250-d434ffd4c301",
+          "subLogs": [],
+          "duration": 67
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@18b74ea, org.openqa.selenium.interactions.Sequence@14924f41]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 221
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-86107A782AD7FB5CDA8B8158C894E89E]",
+          "subLogs": [],
+          "duration": 7
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-86107A782AD7FB5CDA8B8158C894E89E}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/10921",
+          "subLogs": [],
+          "duration": 5365
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/10921",
+          "subLogs": [],
+          "duration": 11
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 74e1b0b9-72e2-4e9f-bc53-de8b9b8d7e60",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"74e1b0b9-72e2-4e9f-bc53-de8b9b8d7e60\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 67
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 18c43120-4a39-40e8-8b1d-b8cbe3637b08",
+          "subLogs": [],
+          "duration": 69
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 80
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[8], using=xpath}"
+          ],
+          "result": "id: b4225a1a-5ccc-4a52-b5ab-44eb80b4121f",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@787508ca, org.openqa.selenium.interactions.Sequence@3d24420b]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 235
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-B2EF205168287107B886A10A773C1077]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-B2EF205168287107B886A10A773C1077}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/1972",
+          "subLogs": [],
+          "duration": 5697
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/1972",
+          "subLogs": [],
+          "duration": 44
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 5a7e362e-1b41-4871-a7f5-3db836085857",
+          "subLogs": [],
+          "duration": 75
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"5a7e362e-1b41-4871-a7f5-3db836085857\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 99
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: e7b9bf30-67af-4fb9-917f-bb405a774d17",
+          "subLogs": [],
+          "duration": 33
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 10
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[9], using=xpath}"
+          ],
+          "result": "id: 740d6519-fb71-4e32-9fea-aec3d3f2c890",
+          "subLogs": [],
+          "duration": 23
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@10b687f2, org.openqa.selenium.interactions.Sequence@55f4887d]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 233
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-15A2A508690A64DA022019B898C89712]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-15A2A508690A64DA022019B898C89712}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 18
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/2264",
+          "subLogs": [],
+          "duration": 5956
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/2264",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: e00978ef-6473-4a9c-9f6a-0fcb46459f9d",
+          "subLogs": [],
+          "duration": 30
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"e00978ef-6473-4a9c-9f6a-0fcb46459f9d\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 68
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 677be75c-763d-49e6-8492-7b9cd06b4802",
+          "subLogs": [],
+          "duration": 20
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 12
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@78d9f51b]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 21
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//div[@class=\"AssetCardFooter--name\"], using=xpath}"
+          ],
+          "result": "id: 10942a10-9091-4d97-9c77-e7a96e298a96",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "getElementText",
+          "args": [
+            "By.xpath: //div[@class=\"AssetCardFooter--name\"]",
+            "{\"id\":\"10942a10-9091-4d97-9c77-e7a96e298a96\"}"
+          ],
+          "result": "getElementText:1595",
+          "subLogs": [],
+          "duration": 12
+        },
+        {
+          "commandName": "findElements",
+          "args": [
+            "{value=//div[@role=\"grid\"]/*, using=xpath}"
+          ],
+          "result": "[id: 68fc46d1-852d-4d08-b2b5-7f13bf92638e, id: 5c312c37-da38-4033-bd0f-9d78af002595, id: 53a9c892-6b54-4ca4-aafb-cc66073de2bd, id: b31a48b1-69fd-4d79-8596-314826a9039e, id: 26665fd7-b434-4394-a35e-dc5a73e3508b, id: 422f6c39-367d-4093-9bb9-853f06157a86, id: 377c9cf1-b53f-4dc0-962d-1ec827974ba0, id: 99dd7b6e-f94a-402c-84df-8853122fe4de, id: 740d6519-fb71-4e32-9fea-aec3d3f2c890]",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[1], using=xpath}"
+          ],
+          "result": "id: 68fc46d1-852d-4d08-b2b5-7f13bf92638e",
+          "subLogs": [],
+          "duration": 12
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@20ead579, org.openqa.selenium.interactions.Sequence@5426cb36]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 180
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-DD9CBEF99FF6BE8102A10C0B95013E01]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-DD9CBEF99FF6BE8102A10C0B95013E01}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/1595",
+          "subLogs": [],
+          "duration": 5640
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/1595",
+          "subLogs": [],
+          "duration": 46
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 41059471-89d6-4ac9-81c4-d339dfafa18e",
+          "subLogs": [],
+          "duration": 43
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"41059471-89d6-4ac9-81c4-d339dfafa18e\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 65
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 416874ff-19f3-41ed-a512-c3bd4aa88bbe",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 84
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 10
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[2], using=xpath}"
+          ],
+          "result": "id: 394d11e0-fc28-4b13-9175-2d526c3d963e",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@5af64ce0, org.openqa.selenium.interactions.Sequence@7e7e962d]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 285
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-7D86A206602ADDE44E9F45E083257C53]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-7D86A206602ADDE44E9F45E083257C53}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/2896",
+          "subLogs": [],
+          "duration": 5586
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/2896",
+          "subLogs": [],
+          "duration": 6
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 6a1dbf43-99ed-4695-8282-9ff60fd33833",
+          "subLogs": [],
+          "duration": 32
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"6a1dbf43-99ed-4695-8282-9ff60fd33833\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 72
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: d384d495-21a6-4adf-982b-44415680c3e8",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 80
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[3], using=xpath}"
+          ],
+          "result": "id: 0cb4776b-fb22-4ead-bc35-a04d71d0c3fd",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@38291795, org.openqa.selenium.interactions.Sequence@234c5e41]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 297
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-32BB6B094591677FE24D61C64CE73B04]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-32BB6B094591677FE24D61C64CE73B04}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3291",
+          "subLogs": [],
+          "duration": 6648
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3291",
+          "subLogs": [],
+          "duration": 6
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 8fc91ed9-e995-4edd-9647-d063ad2b3421",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"8fc91ed9-e995-4edd-9647-d063ad2b3421\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 72
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 5eaef6fb-cc56-43b9-82b1-25f99e103e72",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[4], using=xpath}"
+          ],
+          "result": "id: e9d60f67-f1e3-4004-8013-043237951ca1",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@373e6b9d, org.openqa.selenium.interactions.Sequence@65629ac6]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 268
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-9C9AC3E78C45145588BEE3EF68102BB5]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-9C9AC3E78C45145588BEE3EF68102BB5}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 25
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5888",
+          "subLogs": [],
+          "duration": 4731
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5888",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: aa5c310f-1397-47f3-8b4a-d60b69479917",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"aa5c310f-1397-47f3-8b4a-d60b69479917\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 83
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: c74d3487-7599-4e13-bc1e-9f5d04fa3310",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[5], using=xpath}"
+          ],
+          "result": "id: 3b0bed40-33dc-44e8-a3c3-06be8db52d3e",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@5d7d8613, org.openqa.selenium.interactions.Sequence@6eb089e6]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 240
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-690D3E09181070D39907491D54B8B558]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-690D3E09181070D39907491D54B8B558}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3803",
+          "subLogs": [],
+          "duration": 5826
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3803",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 891dc914-e88a-463a-9862-871e672bc470",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"891dc914-e88a-463a-9862-871e672bc470\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 67
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 2d4675ef-1d27-4286-90aa-03fd2d0624ae",
+          "subLogs": [],
+          "duration": 31
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[6], using=xpath}"
+          ],
+          "result": "id: 615fdc56-86c1-4b31-a85c-6f8f08700da3",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@750ed637, org.openqa.selenium.interactions.Sequence@5190010f]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 251
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-753685D842C4D165B10E3A0BF29E023F]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-753685D842C4D165B10E3A0BF29E023F}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 30
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3982",
+          "subLogs": [],
+          "duration": 5316
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3982",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 73aa8c9c-652b-4afc-8c0c-409215d2d9b9",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"73aa8c9c-652b-4afc-8c0c-409215d2d9b9\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 67
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 5a221541-a107-41f3-9533-103a41c3126b",
+          "subLogs": [],
+          "duration": 24
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[7], using=xpath}"
+          ],
+          "result": "id: ca8ae169-3200-42cf-b7f1-4775906a0c58",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@61cda923, org.openqa.selenium.interactions.Sequence@46fc522d]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 352
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-D081690FE186730C63EEBE9CD0470282]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-D081690FE186730C63EEBE9CD0470282}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 21
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 5137
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 34
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 87404248-0d89-4a79-99c2-a63b15d654bb",
+          "subLogs": [],
+          "duration": 37
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"87404248-0d89-4a79-99c2-a63b15d654bb\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 62
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 5ddb4430-7de1-4c39-bd99-d05b54639b3c",
+          "subLogs": [],
+          "duration": 18
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 78
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[8], using=xpath}"
+          ],
+          "result": "id: 1f55520c-037c-47b4-90a6-c051f4ff2043",
+          "subLogs": [],
+          "duration": 23
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@251c4280, org.openqa.selenium.interactions.Sequence@35650279]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 184
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-0F81DEE452B1965F5852047FEC3C7D7C]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-0F81DEE452B1965F5852047FEC3C7D7C}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 21
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3803",
+          "subLogs": [],
+          "duration": 5078
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3803",
+          "subLogs": [],
+          "duration": 12
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: c45e362b-a092-4482-8431-bc4da4770dfe",
+          "subLogs": [],
+          "duration": 41
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"c45e362b-a092-4482-8431-bc4da4770dfe\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 85
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 79ddd0fb-58f9-4caa-ba4a-bd221a9e729c",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 80
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[9], using=xpath}"
+          ],
+          "result": "id: 081f3964-9105-450f-b7d0-396419acb7e1",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@42e4e589, org.openqa.selenium.interactions.Sequence@499ee966]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 240
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-A728A5AEE1FAF86B6C215CC4B82BAF70]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-A728A5AEE1FAF86B6C215CC4B82BAF70}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 29
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708",
+          "subLogs": [],
+          "duration": 5170
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708",
+          "subLogs": [],
+          "duration": 8
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 5a71b21f-014e-4a83-b030-40bb5cf44ce7",
+          "subLogs": [],
+          "duration": 52
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"5a71b21f-014e-4a83-b030-40bb5cf44ce7\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 84
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: e262b4b2-36e1-426e-9b97-91d68dd9230c",
+          "subLogs": [],
+          "duration": 17
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 13
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@19b07407]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 20
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//div[@class=\"AssetCardFooter--name\"], using=xpath}"
+          ],
+          "result": "id: 96297f67-6477-4577-a6f0-e053e35557c8",
+          "subLogs": [],
+          "duration": 69
+        },
+        {
+          "commandName": "getElementText",
+          "args": [
+            "By.xpath: //div[@class=\"AssetCardFooter--name\"]",
+            "{\"id\":\"96297f67-6477-4577-a6f0-e053e35557c8\"}"
+          ],
+          "result": "getElementText:91",
+          "subLogs": [],
+          "duration": 123
+        },
+        {
+          "commandName": "findElements",
+          "args": [
+            "{value=//div[@role=\"grid\"]/*, using=xpath}"
+          ],
+          "result": "[id: 1d679a4c-4329-48c7-9242-a7241eb37ae0, id: 81745528-651d-49f3-bbb1-a9a74e85390a, id: f9b67d8a-9547-4869-ab09-2ecbea8f18d8, id: 0f64a93e-844a-45a1-a729-cc9d98a4b05b, id: 93f4f7c5-1274-4c79-98e4-913c14455ccf, id: bafd1522-9301-4eef-81df-26ce83e104dd, id: da52a579-a52d-40f1-9d9b-1be7f178c415, id: 14bc8a93-b076-4c12-a7ae-b2e02e274a4b, id: 081f3964-9105-450f-b7d0-396419acb7e1, id: e487611f-a5b6-45af-b5e9-035ac1ecb90e, id: af576f5e-e748-4efc-b217-1a6fbb7326e5, id: d8153258-9aeb-40b6-b6f1-cd15c1c2b222]",
+          "subLogs": [],
+          "duration": 70
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[1], using=xpath}"
+          ],
+          "result": "id: 1d679a4c-4329-48c7-9242-a7241eb37ae0",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@7af0affa, org.openqa.selenium.interactions.Sequence@71560f51]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 262
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-9DF0D107789C89B4A301C504DD10E452, CDwindow-635F9C6F19C3E061C94FF5BB43A1A085]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-9DF0D107789C89B4A301C504DD10E452}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5888",
+          "subLogs": [],
+          "duration": 6138
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5888",
+          "subLogs": [],
+          "duration": 20
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 8fcfebac-26b8-4c82-8ae1-9a382f6b9f28",
+          "subLogs": [],
+          "duration": 51
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"8fcfebac-26b8-4c82-8ae1-9a382f6b9f28\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 112
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 9cf65b1d-5416-424b-a9be-242f7b5f6651",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 80
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[2], using=xpath}"
+          ],
+          "result": "id: 81745528-651d-49f3-bbb1-a9a74e85390a",
+          "subLogs": [],
+          "duration": 23
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@36359723, org.openqa.selenium.interactions.Sequence@1ab14636]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 338
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-F8E3E0A5C821C327F4A6AC35A31EFB0F]",
+          "subLogs": [],
+          "duration": 6
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-F8E3E0A5C821C327F4A6AC35A31EFB0F}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 39
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/4036",
+          "subLogs": [],
+          "duration": 5467
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/4036",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: c645c3cd-89c9-49a2-a1a5-9907f99d84e5",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"c645c3cd-89c9-49a2-a1a5-9907f99d84e5\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 72
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: 1360400e-5e8a-4a92-9c0d-028a77242299",
+          "subLogs": [],
+          "duration": 30
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[3], using=xpath}"
+          ],
+          "result": "id: f9b67d8a-9547-4869-ab09-2ecbea8f18d8",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@634ca3e7, org.openqa.selenium.interactions.Sequence@ab4aa5e]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 224
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-6F91A9C2AE40A5B630389A0D433B0B43]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-6F91A9C2AE40A5B630389A0D433B0B43}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/7010",
+          "subLogs": [],
+          "duration": 4346
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/7010",
+          "subLogs": [],
+          "duration": 28
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 38070a81-eda5-46e0-9692-b34170c2bca4",
+          "subLogs": [],
+          "duration": 34
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"38070a81-eda5-46e0-9692-b34170c2bca4\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 70
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: b69521c7-dcdd-4fbe-a403-02f623e06fa2",
+          "subLogs": [],
+          "duration": 31
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 79
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[4], using=xpath}"
+          ],
+          "result": "id: da52a579-a52d-40f1-9d9b-1be7f178c415",
+          "subLogs": [],
+          "duration": 23
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@74960e9d, org.openqa.selenium.interactions.Sequence@4001d8c1]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 198
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-F0EDAEA58B908F1D27D1E901240A5557]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-F0EDAEA58B908F1D27D1E901240A5557}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 3722
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 98fa9af4-a43b-4ba6-9996-9fd3f3b033a2",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"98fa9af4-a43b-4ba6-9996-9fd3f3b033a2\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 61
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: a1234966-52bb-4cc5-b2d5-16000aaf08b1",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 11
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[5], using=xpath}"
+          ],
+          "result": "id: 14bc8a93-b076-4c12-a7ae-b2e02e274a4b",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@6a2d867d, org.openqa.selenium.interactions.Sequence@73bb1337]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 204
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-55E50919C56B4982A6A19ACF020A0424]",
+          "subLogs": [],
+          "duration": 5
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-55E50919C56B4982A6A19ACF020A0424}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860",
+          "subLogs": [],
+          "duration": 5358
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860",
+          "subLogs": [],
+          "duration": 9
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: 74e31802-ddf0-46be-8b05-a05c96068489",
+          "subLogs": [],
+          "duration": 48
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"74e31802-ddf0-46be-8b05-a05c96068489\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 74
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: c8a1be2a-4bc6-45e6-b5ca-4889d55117d0",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 81
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 11
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[6], using=xpath}"
+          ],
+          "result": "id: 5f03b57e-4f6e-4730-997d-68191f17ce36",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@1d289d3f, org.openqa.selenium.interactions.Sequence@10f405ff]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 308
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-1971C30F9D9AF68B647A98E3FFB41D7D]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-1971C30F9D9AF68B647A98E3FFB41D7D}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 21
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/7010",
+          "subLogs": [],
+          "duration": 6695
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/7010",
+          "subLogs": [],
+          "duration": 19
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: f7f8b158-58f5-4f47-88af-3ed985f27209",
+          "subLogs": [],
+          "duration": 94
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"f7f8b158-58f5-4f47-88af-3ed985f27209\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 97
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: d4f6284f-9404-42cf-b68e-5982bbc3067c",
+          "subLogs": [],
+          "duration": 12
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 80
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 2
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 14
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[7], using=xpath}"
+          ],
+          "result": "id: 968655ef-5159-4a47-9fce-2069d2ae2d36",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "actions",
+          "args": [
+            "{actions=[org.openqa.selenium.interactions.Sequence@2416c658, org.openqa.selenium.interactions.Sequence@6d5f4900]}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 164
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF, CDwindow-E82465B7FFB8F71EA9038201151BC756]",
+          "subLogs": [],
+          "duration": 4
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-E82465B7FFB8F71EA9038201151BC756}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550",
+          "subLogs": [],
+          "duration": 4268
+        },
+        {
+          "commandName": "getCurrentUrl",
+          "args": [
+            "{}"
+          ],
+          "result": "https://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550",
+          "subLogs": [],
+          "duration": 6
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//i[@value=\"refresh\"], using=xpath}"
+          ],
+          "result": "id: ac05ebc0-680c-4d0c-9f14-acc9392d0b83",
+          "subLogs": [],
+          "duration": 22
+        },
+        {
+          "commandName": "clickElement",
+          "args": [
+            "By.xpath: //i[@value=\"refresh\"]",
+            "{\"id\":\"ac05ebc0-680c-4d0c-9f14-acc9392d0b83\"}"
+          ],
+          "result": "clickElement:null",
+          "subLogs": [],
+          "duration": 95
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"alert\"], using=xpath}"
+          ],
+          "result": "id: f6400614-6d01-44ae-8b38-8c770535989b",
+          "subLogs": [],
+          "duration": 26
+        },
+        {
+          "commandName": "close",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 82
+        },
+        {
+          "commandName": "getWindowHandles",
+          "args": [
+            "{}"
+          ],
+          "result": "[CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF]",
+          "subLogs": [],
+          "duration": 3
+        },
+        {
+          "commandName": "switchToWindow",
+          "args": [
+            "{handle=CDwindow-00AFCE56B04C06D4DB0C47775A26FAFF}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 15
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=//*[@role=\"grid\"]/div[8], using=xpath}"
+          ],
+          "result": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@role=\"grid\"]/div[8]\"}\n  (Session info: chrome=101.0.4951.64)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-UIH1L20', ip: '10.136.158.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.64, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:57850}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 190799183600f97da870899328cad613\n*** Element info: {Using=xpath, value=//*[@role=\"grid\"]/div[8]}",
+          "subLogs": [],
+          "duration": 28
+        }
+      ],
+      "duration": -1
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Given I am go to the home of catalog.lu store on OpenSea Page",
+      "type": "TestStepPass",
+      "screenshot": null,
+      "duration": 263055,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Then I verify the status of each value in the collection and populate them",
+      "type": "TestStepFail",
+      "screenshot": "../img/AutomationTest_zocutfr5nbaj10313.png",
+      "duration": 613218,
+      "threshold": 0,
+      "subCheckPoints": [
+        {
+          "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@role=\"grid\"]/div[8]\"}\n  (Session info: chrome=101.0.4951.64)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-UIH1L20', ip: '10.136.158.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.64, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:57850}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 190799183600f97da870899328cad613\n*** Element info: {Using=xpath, value=//*[@role=\"grid\"]/div[8]}",
+          "type": "Fail",
+          "screenshot": null,
+          "duration": 0,
+          "threshold": 0,
+          "subCheckPoints": []
+        }
+      ]
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@role=\"grid\"]/div[8]\"}\n  (Session info: chrome=101.0.4951.64)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-UIH1L20', ip: '10.136.158.136', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.64, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:57850}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 190799183600f97da870899328cad613\n*** Element info: {Using=xpath, value=//*[@role=\"grid\"]/div[8]}\r\n\tat .Then I verify the status of each value in the collection and populate them(scenarios/suite.feature:7)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.executeSuper(QAFExtendedWebDriver.java:241)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.executeWithoutLog(QAFExtendedWebDriver.java:255)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.executeWitoutLog(QAFExtendedWebDriver.java:300)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.execute(QAFExtendedWebDriver.java:278)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElement(QAFExtendedWebDriver.java:181)\r\n\tat com.qmetry.qaf.example.steps.CollectionStepDefs.iVerifyTheStatusOfEachValueInTheCollectionAndPopulateThem(CollectionStepDefs.java:46)\r\n\tat com.qmetry.qaf.automation.step.JavaStep.doExecute(JavaStep.java:150)\r\n\tat com.qmetry.qaf.automation.step.BaseTestStep.execute(BaseTestStep.java:149)\r\n\tat com.qmetry.qaf.automation.step.StringTestStep.execute(StringTestStep.java:128)\r\n\tat com.qmetry.qaf.automation.step.client.Scenario.execute(Scenario.java:174)\r\n\tat com.qmetry.qaf.automation.step.client.Scenario.scenario(Scenario.java:237)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)\r\n"
+}

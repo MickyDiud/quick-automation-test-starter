@@ -1,0 +1,62 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "classes": [
+    "scenarios/suite1.feature"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+        "args": [],
+        "extensions": []
+      },
+      "javascriptEnabled": true,
+      "takesScreenshot": true
+    },
+    "browser-actual-capabilities": {
+      "networkConnectionEnabled": "false",
+      "chrome": "{chromedriverVersion=101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}), userDataDir=C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\scoped_dir13808_1476769969}",
+      "timeouts": "{implicit=0, pageLoad=300000, script=30000}",
+      "pageLoadStrategy": "normal",
+      "unhandledPromptBehavior": "dismiss and notify",
+      "strictFileInteractability": "false",
+      "platform": "WINDOWS",
+      "proxy": "Proxy()",
+      "goog:chromeOptions": "{debuggerAddress=localhost:57022}",
+      "webauthn:extension:credBlob": "true",
+      "acceptInsecureCerts": "false",
+      "browserVersion": "101.0.4951.64",
+      "browserName": "chrome",
+      "javascriptEnabled": "true",
+      "platformName": "WINDOWS",
+      "setWindowRect": "true",
+      "webauthn:extension:largeBlob": "true",
+      "webauthn:virtualAuthenticators": "true"
+    },
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "0",
+      "qaf-Build-Time": "27-Feb-2022 14:37:01",
+      "qaf-Version": "3.1"
+    },
+    "run-parameters": {
+      "resources": "resources",
+      "baseurl": "https://www.baidu.com/"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "JetBrains s.r.o",
+      "java.version": "11.0.5",
+      "os.arch": "amd64",
+      "host": "DESKTOP-UIH1L20",
+      "os.name": "Windows 10",
+      "user.name": "Administrator",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1652284891399,
+  "endTime": 1652284926774
+}

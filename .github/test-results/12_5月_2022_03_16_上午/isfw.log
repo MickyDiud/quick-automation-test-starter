@@ -1,0 +1,274 @@
+[main] 13:29:15,583 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 13:43:09,957 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 13:49:34,692 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 13:54:55,717 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 14:13:48,956 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 14:14:06,911 DEBUG [GlobalStepDefs] click button is button.small.display
+
+[main] 14:53:29,526 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 14:56:53,626 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 14:56:54,050 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 15:04:23,257 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 15:04:23,361 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 15:09:20,451 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 15:09:20,574 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 15:15:14,426 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 15:15:14,540 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 15:18:34,145 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 15:18:34,255 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 15:37:54,331 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 15:37:54,451 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 16:09:36,463 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 16:10:59,375 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 16:10:59,480 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 16:23:00,881 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 16:23:00,986 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 16:48:35,712 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 16:48:35,819 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 16:51:57,374 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 16:51:57,486 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 17:02:43,062 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 17:02:43,185 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 17:04:47,837 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 17:04:47,964 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 17:24:36,884 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 17:24:36,982 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 17:35:25,189 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 17:35:25,313 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 20:31:28,312 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 21:17:02,354 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 21:17:02,476 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 21:17:15,352 DEBUG [CollectionStepDefs] record No: 1
+[main] 21:17:25,111 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 21:17:25,118 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/4910
+[main] 21:19:31,674 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 21:19:36,688 DEBUG [CollectionStepDefs] record No: 2
+[main] 21:27:34,492 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 21:27:34,618 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 21:27:52,410 DEBUG [CollectionStepDefs] record No: 1
+[main] 21:28:15,252 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 21:28:31,518 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5382
+[main] 21:28:36,824 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 21:29:00,311 DEBUG [CollectionStepDefs] record No: 2
+[main] 21:58:16,001 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 21:58:16,141 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 21:58:24,024 DEBUG [CollectionStepDefs] record No: 1
+[main] 21:58:55,520 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 21:58:55,524 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/7136
+[main] 21:58:55,635 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 21:59:41,135 DEBUG [CollectionStepDefs] record No: 2
+[main] 22:12:52,031 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 22:12:52,161 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 22:13:07,776 DEBUG [CollectionStepDefs] record No: 1
+[main] 22:13:14,582 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:13:14,586 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5253
+[main] 22:13:14,690 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:13:50,439 DEBUG [CollectionStepDefs] record No: 2
+[main] 22:24:03,089 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 22:24:03,249 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 22:24:07,455 DEBUG [CollectionStepDefs] record No: 1
+[main] 22:24:17,766 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:24:17,775 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/2619
+[main] 22:24:17,908 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:24:51,087 DEBUG [CollectionStepDefs] record No: 2
+[main] 22:36:02,959 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 22:36:03,094 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 22:36:05,079 DEBUG [CollectionStepDefs] record No: 1
+[main] 22:36:15,309 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:36:15,312 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5796
+[main] 22:36:15,444 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:36:31,765 DEBUG [CollectionStepDefs] record No: 2
+[main] 22:36:51,819 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:36:51,823 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/285
+[main] 22:36:51,972 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:37:25,773 DEBUG [CollectionStepDefs] record No: 3
+[main] 22:37:31,009 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:37:31,040 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5858
+[main] 22:37:31,175 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:37:41,287 DEBUG [CollectionStepDefs] record No: 4
+[main] 22:37:45,053 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:37:45,059 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/4333
+[main] 22:37:45,203 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:37:55,312 DEBUG [CollectionStepDefs] record No: 5
+[main] 22:37:59,966 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:37:59,973 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3249
+[main] 22:38:00,085 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:38:10,184 DEBUG [CollectionStepDefs] record No: 6
+[main] 22:38:14,457 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:38:14,464 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5060
+[main] 22:38:14,563 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:46:59,663 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 22:46:59,806 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 22:47:04,381 DEBUG [CollectionStepDefs] record No: 1
+[main] 22:47:15,150 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:47:15,154 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/1697
+[main] 22:47:15,286 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:47:25,396 DEBUG [CollectionStepDefs] record No: 2
+[main] 22:47:34,444 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:47:34,448 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/55
+[main] 22:47:34,580 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:47:44,694 DEBUG [CollectionStepDefs] record No: 3
+[main] 22:47:49,997 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:47:50,003 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3713
+[main] 22:47:50,161 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:48:00,260 DEBUG [CollectionStepDefs] record No: 4
+[main] 22:48:05,210 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:48:05,225 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3941
+[main] 22:48:05,410 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:48:15,516 DEBUG [CollectionStepDefs] record No: 5
+[main] 22:48:21,525 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:48:21,581 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6017
+[main] 22:48:21,763 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:48:31,868 DEBUG [CollectionStepDefs] record No: 6
+[main] 22:48:36,250 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:48:36,293 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/8614
+[main] 22:48:36,502 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:54:45,181 DEBUG [GlobalStepDefs] Redirect to site address.
+[main] 22:54:45,321 DEBUG [GlobalStepDefs] click button is //*[@value="grid_view"]
+
+[main] 22:54:45,361 DEBUG [CollectionStepDefs] record No: 1
+[main] 22:54:52,621 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:54:52,628 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91
+[main] 22:54:52,752 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:55:02,859 DEBUG [CollectionStepDefs] record No: 2
+[main] 22:55:07,262 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:55:07,308 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860
+[main] 22:55:07,466 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:55:17,574 DEBUG [CollectionStepDefs] record No: 3
+[main] 22:55:21,617 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:55:21,659 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708
+[main] 22:55:21,822 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:55:31,937 DEBUG [CollectionStepDefs] record No: 4
+[main] 22:55:36,694 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:55:36,739 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550
+[main] 22:55:36,972 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:55:47,077 DEBUG [CollectionStepDefs] record No: 5
+[main] 22:55:52,057 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:55:52,073 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3984
+[main] 22:55:52,269 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:56:02,383 DEBUG [CollectionStepDefs] record No: 6
+[main] 22:56:07,010 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:56:07,058 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/897
+[main] 22:56:07,253 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:58:04,718 DEBUG [CollectionStepDefs] record No: 1
+[main] 22:58:10,466 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:58:10,521 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91
+[main] 22:58:10,732 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:58:20,836 DEBUG [CollectionStepDefs] record No: 2
+[main] 22:58:26,689 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:58:26,739 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860
+[main] 22:58:26,936 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:58:37,037 DEBUG [CollectionStepDefs] record No: 3
+[main] 22:58:42,633 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:58:42,637 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708
+[main] 22:58:42,767 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:58:52,866 DEBUG [CollectionStepDefs] record No: 4
+[main] 22:58:58,686 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:58:58,689 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550
+[main] 22:58:58,801 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:59:08,913 DEBUG [CollectionStepDefs] record No: 5
+[main] 22:59:15,872 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:59:15,882 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3984
+[main] 22:59:15,984 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:59:26,085 DEBUG [CollectionStepDefs] record No: 6
+[main] 22:59:32,743 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:59:32,746 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/897
+[main] 22:59:32,841 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:59:42,941 DEBUG [CollectionStepDefs] record No: 7
+[main] 22:59:48,715 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 22:59:48,727 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/10921
+[main] 22:59:48,882 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 22:59:58,980 DEBUG [CollectionStepDefs] record No: 8
+[main] 23:00:04,994 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:00:05,039 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/1972
+[main] 23:00:05,246 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:00:15,348 DEBUG [CollectionStepDefs] record No: 9
+[main] 23:00:21,610 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:00:21,613 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/2264
+[main] 23:00:21,731 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:00:43,437 DEBUG [CollectionStepDefs] record No: 1
+[main] 23:00:49,345 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:00:49,392 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/1595
+[main] 23:00:49,529 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:00:59,628 DEBUG [CollectionStepDefs] record No: 2
+[main] 23:01:05,578 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:01:05,585 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/2896
+[main] 23:01:05,704 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:01:15,802 DEBUG [CollectionStepDefs] record No: 3
+[main] 23:01:22,826 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:01:22,832 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3291
+[main] 23:01:22,951 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:01:33,062 DEBUG [CollectionStepDefs] record No: 4
+[main] 23:01:38,143 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:01:38,149 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5888
+[main] 23:01:38,282 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:01:48,392 DEBUG [CollectionStepDefs] record No: 5
+[main] 23:01:54,580 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:01:54,583 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3803
+[main] 23:01:54,697 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:02:04,797 DEBUG [CollectionStepDefs] record No: 6
+[main] 23:02:10,463 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:02:10,466 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3982
+[main] 23:02:10,583 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:02:20,692 DEBUG [CollectionStepDefs] record No: 7
+[main] 23:02:26,259 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:02:26,293 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91
+[main] 23:02:26,410 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:02:36,513 DEBUG [CollectionStepDefs] record No: 8
+[main] 23:02:41,852 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:02:41,864 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/3803
+[main] 23:02:42,007 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:02:52,107 DEBUG [CollectionStepDefs] record No: 9
+[main] 23:02:57,601 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:02:57,609 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/6708
+[main] 23:02:57,762 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:03:08,148 DEBUG [CollectionStepDefs] record No: 1
+[main] 23:03:14,642 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:03:14,662 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5888
+[main] 23:03:14,841 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:03:24,953 DEBUG [CollectionStepDefs] record No: 2
+[main] 23:03:30,871 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:03:30,874 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/4036
+[main] 23:03:30,998 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:03:41,099 DEBUG [CollectionStepDefs] record No: 3
+[main] 23:03:45,773 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:03:45,801 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/7010
+[main] 23:03:45,936 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:03:56,047 DEBUG [CollectionStepDefs] record No: 4
+[main] 23:04:00,044 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:04:00,048 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/91
+[main] 23:04:00,143 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:04:10,249 DEBUG [CollectionStepDefs] record No: 5
+[main] 23:04:15,894 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:04:15,903 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5860
+[main] 23:04:16,052 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:04:26,151 DEBUG [CollectionStepDefs] record No: 6
+[main] 23:04:33,228 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:04:33,247 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/7010
+[main] 23:04:33,450 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:04:43,561 DEBUG [CollectionStepDefs] record No: 7
+[main] 23:04:48,115 DEBUG [CollectionStepDefs] record status is :Clicked
+[main] 23:04:48,122 DEBUG [CollectionStepDefs] URL ishttps://opensea.io/assets/matic/0xecc82095b2e23605cd95552d90216faa87606c40/5550
+[main] 23:04:48,265 DEBUG [CollectionStepDefs] record status is: Queued
+[main] 23:04:58,377 DEBUG [CollectionStepDefs] record No: 8

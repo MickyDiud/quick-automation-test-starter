@@ -1,0 +1,14 @@
+{
+  "reports": [
+    {
+      "name": "Sample Demo",
+      "dir": "test-results/12_5月_2022_03_16_上午/json",
+      "startTime": 1652325773448
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/11_5月_2022_03_51_下午/json",
+      "startTime": 1652284891169
+    }
+  ]
+}

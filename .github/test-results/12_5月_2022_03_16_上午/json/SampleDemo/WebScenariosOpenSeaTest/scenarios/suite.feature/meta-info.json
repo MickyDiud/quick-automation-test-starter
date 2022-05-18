@@ -1,0 +1,924 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652325773628,
+      "duration": 12420,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652325810422,
+      "duration": 76279,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652326403507,
+      "duration": 143939,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652326607274,
+      "duration": 33571,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652326680981,
+      "duration": 2935,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652326963633,
+      "duration": 1955,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652327069566,
+      "duration": 259,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652327297030,
+      "duration": 49455,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@Smoke"
+        ],
+        "lineNo": 4.0,
+        "name": "Sample Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "SampleTest1",
+        "sign": "scenarios.suite.feature.Sample Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652330752560,
+      "duration": 31840,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652332495504,
+      "duration": 108979,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652332844528,
+      "duration": 86631,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652333268287,
+      "duration": 127160,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652333732782,
+      "duration": 492582,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652335905048,
+      "duration": 32019,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652335976029,
+      "duration": 70890,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652338345892,
+      "duration": 63691,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652339305636,
+      "duration": 209934,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652341999975,
+      "duration": 302001,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Test over",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TestOver",
+        "sign": "scenarios.suite.feature.Test over()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652342301989,
+      "duration": 74288,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652342716083,
+      "duration": 260462,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Test Finish",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TestFinish",
+        "sign": "scenarios.suite.feature.Test Finish()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652342976558,
+      "duration": 675,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652345257944,
+      "duration": 66430,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652345324387,
+      "duration": 725,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652345864926,
+      "duration": 333190,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown2",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652346198131,
+      "duration": 854,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652346241250,
+      "duration": 1127038,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown2",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652347368298,
+      "duration": 841,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652348830880,
+      "duration": 9858478,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652361218836,
+      "duration": 358159,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown2",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652361577013,
+      "duration": 755,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652361864835,
+      "duration": 276094,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652364516567,
+      "duration": 314318,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown2",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652364830902,
+      "duration": 735,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652365186109,
+      "duration": 478118,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652365743438,
+      "duration": 561655,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown2",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652366305106,
+      "duration": 743,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652366509241,
+      "duration": 447047,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10.0,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown2",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652366956305,
+      "duration": 776,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@WebTest"
+        ],
+        "lineNo": 4.0,
+        "name": "Automation Test",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "AutomationTest1",
+        "sign": "scenarios.suite.feature.Automation Test()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652367020002,
+      "duration": 878737,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "@TearDown"
+        ],
+        "lineNo": 10,
+        "name": "Tear Down",
+        "reference": "scenarios/suite.feature",
+        "resultFileName": "TearDown2",
+        "sign": "scenarios.suite.feature.Tear Down()[pri:1001, instance:com.qmetry.qaf.automation.step.client.Scenario@3e9]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1652367898756,
+      "duration": 763,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 1,
+  "classes": [
+    "scenarios/suite.feature"
+  ],
+  "envInfo": {
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "0",
+      "qaf-Build-Time": "27-Feb-2022 14:37:01",
+      "qaf-Version": "3.1"
+    },
+    "run-parameters": {
+      "resources": "resources",
+      "baseurl": "https://www.baidu.com/"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "JetBrains s.r.o",
+      "java.version": "11.0.5",
+      "os.arch": "amd64",
+      "host": "DESKTOP-UIH1L20",
+      "os.name": "Windows 10",
+      "user.name": "Administrator",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1652324035884,
+  "endTime": 1652324036040
+}
